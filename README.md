@@ -67,7 +67,6 @@ Generating natural language captions for images combines computer vision and nat
 
 Metrics
 Common metrics for evaluating image captioning:
-- **BLEU Score**: Measures overlap between generated and ground-truth captions.
 - **CIDEr**: Focuses on consensus in human-annotated captions.
 - **ROUGE**: Measures n-gram overlap.
 - **METEOR**: Considers synonyms and stemming for semantic matching.
